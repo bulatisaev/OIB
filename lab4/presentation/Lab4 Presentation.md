@@ -16,26 +16,30 @@
 
 <a name="br2"></a> 
 ![](images/1.png)
+<br>
 **Рис. 1** – Права доступа
-
+<br>
 
 
 <a name="br3"></a> 
 ![](images/2.png)
+<br>
 **Рис. 2** – Атрибут -a
-
+<br>
 
 
 <a name="br4"></a> 
 ![](images/3.png)
+<br>
 **Рис. 3 –** Атрибут -a снят
-
+<br>
 
 
 <a name="br5"></a> 
 ![](images/4.png)
+<br>
 **Рис. 4 –** Атрибут -i
-
+<br>
 
 
 <a name="br6"></a> 
